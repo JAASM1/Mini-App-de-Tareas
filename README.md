@@ -10,7 +10,7 @@
 ## 🛠 Instalación
 1. Clona el repositorio:
 ```bash
-git clone [https://github.com/tu-usuario/tu-proyecto-react.git](https://github.com/JAASM1/Mini-App-de-Tareas.git)
+git clone https://github.com/tu-usuario/tu-proyecto-react.git
 ```
 2. Navegar a la ruta del proyecto:
 ```bash
