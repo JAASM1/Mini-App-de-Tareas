@@ -10,11 +10,11 @@
 ## 🛠 Instalación
 1. Clona el repositorio:
 ```bash
-git clone https://github.com/tu-usuario/tu-proyecto-react.git
+git clone [https://github.com/tu-usuario/tu-proyecto-react.git](https://github.com/JAASM1/Mini-App-de-Tareas.git)
 ```
 2. Navegar a la ruta del proyecto:
 ```bash
-cd to-do
+cd nombre-de-la-carpeta
 ```
 3. Instala dependencias:
 ```bash
